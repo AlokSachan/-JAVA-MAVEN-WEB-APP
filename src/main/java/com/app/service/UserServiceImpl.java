@@ -37,7 +37,7 @@ public class UserServiceImpl implements UserService {
 	}
 
 	/**
-	 * This method is used to Update the Existing User
+	 * This method is used to Update the Existing User code change
 	 */
 	public boolean update(String uid, User user) {
 		if (usersData.containsKey(Integer.parseInt(uid))) {
