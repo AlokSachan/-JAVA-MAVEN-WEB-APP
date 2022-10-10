@@ -7,7 +7,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 /**
  * This class is used to set/get the user details
  * Binding class 
- * @author Ashok
+ * @author alok.sachan.83@gmail.com
  *
  */
 @XmlRootElement(name = "user")
